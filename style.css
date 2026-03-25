@@ -543,11 +543,10 @@ body.light-theme .btn.equal:hover {
     .calculator-container {
         padding: 10px;
     }
-
+}
     .btn {
         padding: 15px 5px;
     }
-=======
 :root {
     --bg-color: #050505;
     --card-bg: rgba(20, 20, 25, 0.6);
